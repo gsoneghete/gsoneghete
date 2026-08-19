@@ -6,7 +6,12 @@
 
 ###
 
-<p align="left">I'm an Oceanographer graduated from the Universidade Federal do Espírito Santo.<br><br>🌊 I work with hydrodynamic modelling, oil spill and sediment transport simulations, and metocean data analysis using Python and R.<br>🔬I'm currently learning machine learning techniques applied to marine heatwaves and oceanographic data.</p>
+<p align="left">
+I'm an Oceanographer graduated from the Universidade Federal do Espírito Santo.<br><br>
+🌊 I work with hydrodynamic modelling, oil spill and sediment transport simulations, and metocean data analysis using Python and R.<br>
+🔥 My research focuses on marine heatwaves and the investigation of atmospheric and oceanographic drivers of extreme marine temperature events.<br>
+🔬 I'm currently learning machine learning techniques applied to marine heatwaves and oceanographic data.
+</p>
 
 ###
 
